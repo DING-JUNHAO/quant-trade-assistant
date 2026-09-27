@@ -1,0 +1,2 @@
+# quant-trade-assistant
+Public
